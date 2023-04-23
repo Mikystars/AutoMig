@@ -1,4 +1,4 @@
-# AutoMig
+# AutoMig -- WIP!
 A self driving prototype using NVIDIA Jetson Nano platform and Arduino.
 
 ## Why "AutoMig"
